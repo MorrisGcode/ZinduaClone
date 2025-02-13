@@ -1,0 +1,8 @@
+.one li, a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}
+.one li, a:hover{
+    color: red;
+}
